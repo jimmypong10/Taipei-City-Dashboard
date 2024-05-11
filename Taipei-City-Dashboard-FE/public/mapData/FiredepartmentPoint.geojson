@@ -1,0 +1,213 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.56839583452091, 25.034445136103784],
+				"type": "Point"
+			},
+			"id": 0
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.56909461238621, 25.04099842265022],
+				"type": "Point"
+			},
+			"id": 2
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.49111535964124, 25.031609934915082],
+				"type": "Point"
+			},
+			"id": 3
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.49583460851522, 25.02859863071768],
+				"type": "Point"
+			},
+			"id": 4
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.52391973510174, 25.025274977931574],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.52425346880034, 25.023233764868593],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.49361301312524, 25.14543233323245],
+				"type": "Point"
+			},
+			"id": 9
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.4930679537324, 25.145667404505716],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.56179129909879, 25.036972090790286],
+				"type": "Point"
+			},
+			"id": 12
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.51274978873272, 25.053081994317793],
+				"type": "Point"
+			},
+			"id": 14
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.51136099489548, 25.050259356950846],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.51715876026611, 25.117895997566663],
+				"type": "Point"
+			},
+			"id": 17
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.50281017411584, 25.120708424174794],
+				"type": "Point"
+			},
+			"id": 18
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.56790300059254, 25.03577918020335],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.53578494494974, 25.06812415247829],
+				"type": "Point"
+			},
+			"id": 23
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.55362599999842, 25.044513860051964],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.54580170872737, 25.048320662901986],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.53733733431159, 25.067919973690024],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.54627454508147, 25.024788641290556],
+				"type": "Point"
+			},
+			"id": 30
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.54335015340234, 25.030076546620705],
+				"type": "Point"
+			},
+			"id": 31
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.56802938029404, 25.04160899362074],
+				"type": "Point"
+			},
+			"id": 33
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.54541797411753, 25.044270811820454],
+				"type": "Point"
+			},
+			"id": 36
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.55233375428526, 25.03288164370548],
+				"type": "Point"
+			},
+			"id": 37
+		},
+		{
+			"type": "Feature",
+			"properties": {},
+			"geometry": {
+				"coordinates": [121.54527181930257, 25.044277623583994],
+				"type": "Point"
+			},
+			"id": 39
+		}
+	]
+}

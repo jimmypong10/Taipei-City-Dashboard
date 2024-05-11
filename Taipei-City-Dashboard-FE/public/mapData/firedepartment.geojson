@@ -1,0 +1,465 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5208,25.0473 ]
+    },
+    "properties": {
+    "分隊名稱":"華山分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5271,25.0437 ]
+    },
+    "properties": {
+    "分隊名稱":"忠孝分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5125,25.0246 ]
+    },
+    "properties": {
+    "分隊名稱":"泉州分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5376,25.0117 ]
+    },
+    "properties": {
+    "分隊名稱":"古亭分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5134,25.0469 ]
+    },
+    "properties": {
+    "分隊名稱":"城中分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4955,25.0288 ]
+    },
+    "properties": {
+    "分隊名稱":"雙園分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4993,25.0386 ]
+    },
+    "properties": {
+    "分隊名稱":"龍山分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5664,25.0021 ]
+    },
+    "properties": {
+    "分隊名稱":"萬芳分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5412,24.9923 ]
+    },
+    "properties": {
+    "分隊名稱":"景美分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5634,24.9888 ]
+    },
+    "properties": {
+    "分隊名稱":"木柵分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5549,24.9799 ]
+    },
+    "properties": {
+    "分隊名稱":"寶橋分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5278,25.0325 ]
+    },
+    "properties": {
+    "分隊名稱":"金華分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5523,25.0329 ]
+    },
+    "properties": {
+    "分隊名稱":"安和分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5433,25.0301 ]
+    },
+    "properties": {
+    "分隊名稱":"復興分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6073,25.0547 ]
+    },
+    "properties": {
+    "分隊名稱":"南港分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6153,25.0451 ]
+    },
+    "properties": {
+    "分隊名稱":"舊莊分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5867,25.0478 ]
+    },
+    "properties": {
+    "分隊名稱":"成德分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5687,25.0408 ]
+    },
+    "properties": {
+    "分隊名稱":"信義分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5692,25.0455 ]
+    },
+    "properties": {
+    "分隊名稱":"永吉分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5652,25.0298 ]
+    },
+    "properties": {
+    "分隊名稱":"莊敬分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5567,25.0800 ]
+    },
+    "properties": {
+    "分隊名稱":"大直分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5339,25.0475 ]
+    },
+    "properties": {
+    "分隊名稱":"松江分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5359,25.0678 ]
+    },
+    "properties": {
+    "分隊名稱":"建國分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5494,25.0725 ]
+    },
+    "properties": {
+    "分隊名稱":"搜救犬訓練基地"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5292,25.0685 ]
+    },
+    "properties": {
+    "分隊名稱":"圓山分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.563,25.0485 ]
+    },
+    "properties": {
+    "分隊名稱":"八德分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.563,25.0483 ]
+    },
+    "properties": {
+    "分隊名稱":"中崙分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6129,25.0675 ]
+    },
+    "properties": {
+    "分隊名稱":"東湖分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.6017,25.0839 ]
+    },
+    "properties": {
+    "分隊名稱":"大湖分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5904,25.0695 ]
+    },
+    "properties": {
+    "分隊名稱":"內湖分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5777,25.0669 ]
+    },
+    "properties": {
+    "分隊名稱":"民權分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5182,25.0548 ]
+    },
+    "properties": {
+    "分隊名稱":"建成分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5114,25.0502 ]
+    },
+    "properties": {
+    "分隊名稱":"延平分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5137,25.0615 ]
+    },
+    "properties": {
+    "分隊名稱":"大同分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5457,25.1339 ]
+    },
+    "properties": {
+    "分隊名稱":"山仔后分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5329,25.1253 ]
+    },
+    "properties": {
+    "分隊名稱":"天母分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4967,25.0964 ]
+    },
+    "properties": {
+    "分隊名稱":"福安分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5115,25.0791 ]
+    },
+    "properties": {
+    "分隊名稱":"社子分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5277,25.0899 ]
+    },
+    "properties": {
+    "分隊名稱":"劍潭分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5447,25.0976 ]
+    },
+    "properties": {
+    "分隊名稱":"雙溪分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.518,25.0873 ]
+    },
+    "properties": {
+    "分隊名稱":"後港分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5466,25.1516 ]
+    },
+    "properties": {
+    "分隊名稱":"陽明山分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5025,25.1352 ]
+    },
+    "properties": {
+    "分隊名稱":"光明分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4929,25.1453 ]
+    },
+    "properties": {
+    "分隊名稱":"關渡分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5169,25.1179 ]
+    },
+    "properties": {
+    "分隊名稱":"石牌分隊"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4667,25.1231 ]
+    },
+    "properties": {
+    "分隊名稱":"秀山分隊"
+    }
+  }
+]
+}

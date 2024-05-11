@@ -1,0 +1,149 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5029,25.1324 ]
+    },
+    "properties": {
+    "district":"北投區",
+    "location":"區行政中心地下室（新市街30號）",
+    "recycle_location":"同領取地點"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5196,25.0930 ]
+    },
+    "properties": {
+    "district":"士林區",
+    "location":"區行政中心地下1樓停車場(中正路439號)",
+    "recycle_location":"同領取地點"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5891,25.0693 ]
+    },
+    "properties": {
+    "district":"內湖區",
+    "location":"區行政中心1樓正後方(民權東路6段99號)",
+    "recycle_location":"同領取地點"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5030,25.0419 ]
+    },
+    "properties": {
+    "district":"南港區",
+    "location":"區行政中心地下1樓停車場（南港路1段360號）",
+    "recycle_location":"同領取地點"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5703,24.9905 ]
+    },
+    "properties": {
+    "district":"文山區",
+    "location":"區行政中心地下1樓停車場(木柵路3段220號)",
+    "recycle_location":"同領取地點"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.4997,25.0351 ]
+    },
+    "properties": {
+    "district":"萬華區",
+    "location":"區行政中心地下2樓停車場（和平西路3段120號）",
+    "recycle_location":"同領取地點"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5152,25.0661 ]
+    },
+    "properties": {
+    "district":"大同區",
+    "location":"區行政中心地下1樓（昌吉街57號）",
+    "recycle_location":"同領取地點"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5403,25.0419 ]
+    },
+    "properties": {
+    "district":"中正區",
+    "location":"臺北市忠孝東路1段108號地下1樓",
+    "recycle_location":"同領取地點"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5336,25.0644 ]
+    },
+    "properties": {
+    "district":"中山區",
+    "location":"區行政中心大樓地下2樓（松江路367號）",
+    "recycle_location":"同領取地點"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5344,25.0265 ]
+    },
+    "properties": {
+    "district":"大安區",
+    "location":"區行政中心地下1樓(新生南路2段86號)",
+    "recycle_location":"同領取地點"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5822,25.0378 ]
+    },
+    "properties": {
+    "district":"信義區",
+    "location":"區行政中心地下1樓停車場（福德街86號）",
+    "recycle_location":"同領取地點"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 121.5773,25.0498 ]
+    },
+    "properties": {
+    "district":"松山區",
+    "location":"區行政中心地下2樓停車場(八德路4段692號)",
+    "recycle_location":"同領取地點"
+    }
+  }
+]
+}
